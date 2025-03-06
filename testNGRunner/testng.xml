@@ -7,5 +7,4 @@
             <class name="com.example.automantask_robusta.testCase.TestCase"/>
         </classes>
     </test>
-
 </suite>
