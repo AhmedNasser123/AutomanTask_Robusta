@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Playwright Automation ">
+
+    <test name="01 Playwright Automation "  parallel="methods" thread-count="5" >
+        <classes>
+            <class name="com.example.automantask_robusta.testCase.TestCase"/>
+        </classes>
+    </test>
+
+</suite>
